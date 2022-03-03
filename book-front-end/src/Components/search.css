@@ -1,0 +1,9 @@
+.search-input{
+  padding: 10px;
+}
+.find-btn{
+  margin-top: 1%;
+  padding: 5px 10px;
+  outline: none;
+  display: block;
+}
